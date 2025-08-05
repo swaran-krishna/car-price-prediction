@@ -52,4 +52,3 @@ The dataset is located in the `data/` folder.
 
 ## 🔒 Output
 The trained model is saved as `car_price_model.pkl`.
-
